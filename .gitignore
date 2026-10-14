@@ -1,0 +1,20 @@
+# macOS files
+.DS_Store
+
+# Python cache files
+__pycache__/
+*.py[cod]
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# Local virtual environments
+.venv/
+venv/
+
+# Local secrets
+.env
+
+#My own stuff
+Irchel_Bäume_Lea.gpkg
+Tree_Locations.qgz
